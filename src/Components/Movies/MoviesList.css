@@ -1,0 +1,13 @@
+.image{
+    width: 400px;
+}
+.MovieList{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.movContainer{
+    min-height: 100vh;
+}

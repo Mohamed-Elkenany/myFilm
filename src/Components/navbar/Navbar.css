@@ -1,0 +1,10 @@
+:root{
+    --nav-color:#5778a3;
+}
+
+.link{
+    color:var(--nav-color) ;
+}
+.buttonSearch{
+    background-color: var(--nav-color);
+}
